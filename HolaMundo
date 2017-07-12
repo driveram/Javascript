@@ -1,0 +1,4 @@
+var nombre;
+nombre = "coco";
+console.log(canal);
+document.querySelector("body").innerHTML = "Hola" + nombre;
